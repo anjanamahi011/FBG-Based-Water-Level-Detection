@@ -109,6 +109,9 @@ where `neff` is the effective refractive index and `Λ` is the grating period. C
 - Water container and level measurement arrangement
 - Interrogator software / in-house GUI for wavelength monitoring
 
+- [View Project Repository](https://github.com/anjanamahi011/FBG-Based-Water-Level-Detection)
+  
+
 ## Project Documentation
 
 The diagrams, sensor photographs and plots in `images/` are extracted from the project report. The full project report and presentation can be added separately if you choose to publish them.
