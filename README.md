@@ -17,7 +17,7 @@ This project investigates water-level detection using Fiber Bragg Grating (FBG) 
 
 Two FBG sensors were placed vertically inside a water container, with approximately 7 cm separation. The lower sensor was positioned near the bottom, and the second sensor was placed approximately 7 cm above it. Their distinct Bragg wavelengths enabled the responses to be distinguished by the optical interrogator.
 
-![Experimental setup](images/experimental-setup.jpeg)
+![Experimental setup](experimental-setup.jpeg)
 
 ### Sensors used
 
@@ -27,9 +27,9 @@ Two FBG sensors were placed vertically inside a water container, with approximat
 | Measured wavelength range in reported trial | 1547.012–1547.059 nm | 1551.023–1551.072 nm |
 | Wavelength shift in reported trial | 47 pm | 49 pm |
 
-![FBG sensor 1](images/fbg-sensor-1545nm.jpeg)
+![FBG sensor 1](fbg-sensor-1545nm.jpeg)
 
-![FBG sensor 2](images/fbg-sensor-1550nm.jpeg)
+![FBG sensor 2](fbg-sensor-1550nm.jpeg)
 
 The sensors were separated vertically by approximately 7 cm. The report lists an FWHM of approximately 0.70 nm and a fiber length of approximately 10 m for the sensors.
 
@@ -57,9 +57,9 @@ In the reported response trial:
 
 The following plots are extracted from the project report.
 
-![Sensor 1 wavelength response](images/sensor-1-wavelength-response.png)
+![Sensor 1 wavelength response](sensor-1-wavelength-response.png)
 
-![Sensor 2 wavelength response](images/sensor-2-wavelength-response.png)
+![Sensor 2 wavelength response](sensor-2-wavelength-response.png)
 
 ### Variation across experimental datasets
 
@@ -72,7 +72,7 @@ The following plots are extracted from the project report.
 | 5 | 14.36 | 22.05 |
 | 6 | 5.56 | 6.42 |
 
-![Repeatability analysis](images/repeatability-analysis.jpeg)
+![Repeatability analysis](repeatability-analysis.jpeg)
 
 The measurements varied noticeably between trials. The report identifies temperature variation, environmental conditions, handling, baseline drift and incomplete recovery as factors affecting repeatability. The system therefore demonstrated a measurable response, but not consistent repeatability across all datasets.
 
