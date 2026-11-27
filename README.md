@@ -111,7 +111,7 @@ where `neff` is the effective refractive index and `Λ` is the grating period. C
 
 ## Project Documentation
 
-The diagrams, sensor photographs and plots in `images/` are extracted from the project report. The full project report and presentation can be added separately if you choose to publish them.
+The experimental setup photograph, sensor images and response plots are included directly in this repository. The full project report and presentation can be added separately if you choose to publish them.
 
 ---
 
